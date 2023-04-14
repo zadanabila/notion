@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Zada Nabila',
-  domain: 'verce.zada.eu.org',
+  domain: 'vercel.zada.eu.org',
   author: 'Zada Nabila',
 
   // open graph metadata (optional)
